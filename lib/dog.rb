@@ -7,11 +7,11 @@ class Dog
     @name
   end
 
-  def job=(new_job)
-    @job = new_job
+  def breed=(new_breed)
+    @breed = new_breed
   end
 
-  def job
-    @job
+  def breed
+    @breed
   end
 end
